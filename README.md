@@ -57,7 +57,7 @@ Implements two endpoints:
 - `400 Bad Request` when validation fails.
 
 ### List Schools
-`GET /api/listSchools?lat=18.5204&lng=73.8567`
+`GET /api/listSchools?latitude=18.5204&longitude=73.8567`
 
 **Response**
 ```json
